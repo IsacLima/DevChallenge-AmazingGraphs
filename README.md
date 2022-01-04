@@ -2,7 +2,7 @@
 
 # Welcome :)
 
-#Site demonstrativo ------>https://isaclima.github.io/DevChallenge-AmazingGraphs/<-----
+#Site demonstrativo 
 
 # Challenge
 Your challenge is to build a landing page about a website that create graphics.<br><br>
