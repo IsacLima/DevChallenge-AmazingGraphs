@@ -109,6 +109,7 @@ h3{
 	
 	.menu p:hover{
 		color: #D2872C;
+		cursor: pointer;
 	}
 
 	h1{
