@@ -106,6 +106,10 @@ h3{
 	.menu p{
 		color: #3f4044;
 	}
+	
+	.menu p:hover{
+		color: #D2872C;
+	}
 
 	h1{
 		letter-spacing: 0px;
