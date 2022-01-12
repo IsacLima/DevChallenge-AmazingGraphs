@@ -59,6 +59,10 @@ h2{
 	text-align: center;
 }
 
+.letreiro p{
+	width: 80%;
+}
+
 p{
   color: #766F68;
   font-size: 1.4rem;
