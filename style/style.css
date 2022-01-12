@@ -59,10 +59,6 @@ h2{
 	text-align: center;
 }
 
-.letreiro p{
-	width: 80%;
-}
-
 p{
   color: #766F68;
   font-size: 1.4rem;
@@ -157,6 +153,10 @@ h3{
 		width: 60%;
 		padding-left: 8rem;
 		padding-top: 2rem;
+	}
+	
+	.letreiro p{
+		width: 80%;
 	}
 
 	.start{
